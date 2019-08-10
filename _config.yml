@@ -1,10 +1,10 @@
-version:            V005--20-Jul-2019
+version:            V006--10-Aug-2019
 title:              My Blog
 email:              my-e@ma.il
 description:        My Blog with Bootstrap
 author:             Mr. Yoda Yoda
-baseurl:            "/bootstrap-cb-jekyll"
-url:                "https://webjekyll.github.io"
+baseurl:            "/rahmat"
+url:                "https://rms46.github.io"
 
 # Social Profiles
 twitter_username:   tba
@@ -13,7 +13,7 @@ facebook_username:  tba
 linkedin_username:  tba
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
