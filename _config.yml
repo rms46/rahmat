@@ -1,0 +1,25 @@
+version:            V005--20-Jul-2019
+title:              My Blog
+email:              my-e@ma.il
+description:        My Blog with Bootstrap
+author:             Mr. Yoda Yoda
+baseurl:            "/bootstrap-cb-jekyll"
+url:                "https://webjekyll.github.io"
+
+# Social Profiles
+twitter_username:   tba
+github_username:    mryyoda
+facebook_username:  tba
+linkedin_username:  tba
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
