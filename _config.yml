@@ -1,14 +1,14 @@
 version:            V008--11-Aug-2019
-title:              My Blog
-email:              my-e@ma.il
-description:        My Blog with Bootstrap
-author:             Mr. Yoda Yoda
+title:              Rahmat M. Samik-Ibrahim
+# email:              my-e@ma.il
+description:        Rahmat M. Samik-Ibrahim
+author:             Rahmat M. Samik-Ibrahim
 # baseurl:            "/rahmat"
 url:                "https://rahmat.vlsm.org"
 
 # Social Profiles
 twitter_username:   tba
-github_username:    mryyoda
+github_username:    rms46
 facebook_username:  tba
 linkedin_username:  tba
 
@@ -23,3 +23,4 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
