@@ -1,10 +1,10 @@
-version:            V006--10-Aug-2019
+version:            V008--11-Aug-2019
 title:              My Blog
 email:              my-e@ma.il
 description:        My Blog with Bootstrap
 author:             Mr. Yoda Yoda
-baseurl:            "/rahmat"
-url:                "https://rms46.github.io"
+# baseurl:            "/rahmat"
+url:                "https://rahmat.vlsm.org"
 
 # Social Profiles
 twitter_username:   tba
