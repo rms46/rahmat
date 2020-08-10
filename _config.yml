@@ -1,4 +1,4 @@
-version:            V015--07-May-2020
+version:            V016--10-Aug-2020
 title:              Rahmat M. Samik-Ibrahim
 # email:              my-e@ma.il
 description:        Hello, this is Rahmat M. Samik-Ibrahim!
@@ -9,9 +9,7 @@ url:                "https://rahmat.vlsm.org"
 # Social Profiles
 twitter_username:   rms46
 github_username:    rms46
-
-# Add your google-analytics ID here to activate google analytics
-# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics: UA-89852122-6
 
 # Build settings
 markdown:           kramdown
