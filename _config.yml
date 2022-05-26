@@ -1,4 +1,4 @@
-version:            V023a--04-May-2022
+version:            V024--26-May-2022
 title:              Rahmat M. Samik-Ibrahim
 # email:              my-e@ma.il
 description:        Nama saya Rahmat, Rahmat nama saya.<br>Kalau bukan Rahmat, bukan nama saya!
@@ -8,7 +8,7 @@ url:                "https://rahmat.vlsm.org/"
 
 # Social Profiles
 github_username:    rms46
-google_analytics: UA-89852122-6
+google_analytics:   G-F91XYGVGJ7
 
 # Build settings
 markdown:           kramdown
