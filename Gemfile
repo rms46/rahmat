@@ -5,6 +5,7 @@ gem "tzinfo-data"
 gem "github-pages", group: :jekyll_plugins
 
 group :jekyll_plugins do
+  gem "faraday-retry"
   gem "jekyll-feed"
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
