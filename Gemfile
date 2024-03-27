@@ -1,18 +1,13 @@
 source "https://rubygems.org"
 
-# gem "jekyll", "~> 3.8.5"
-gem "tzinfo-data"
-gem "github-pages", group: :jekyll_plugins
-
 group :jekyll_plugins do
-  gem "faraday-retry"
-  gem "jekyll-feed"
-  gem "jekyll-paginate"
-  gem "jekyll-sitemap"
+# gem "faraday-retry"
+# gem "github-pages"
+gem "jekyll"
+gem "jekyll-feed"
+gem "jekyll-paginate"
+gem "jekyll-sitemap"
+# gem "tzinfo-data"
+# gem "webrick"
 end
 
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-# gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
-# Performance-booster for watching directories on Windows
-# gem "wdm", "~> 0.1.0" if Gem.win_platform?
