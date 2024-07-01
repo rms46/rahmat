@@ -7,7 +7,7 @@ gem "jekyll"
 gem "jekyll-feed"
 gem "jekyll-paginate"
 gem "jekyll-sitemap"
+gem "webrick"
 # gem "tzinfo-data"
-# gem "webrick"
 end
 
