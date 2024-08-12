@@ -1,4 +1,4 @@
-version:            V032b--23-Jul-2024
+version:            V033--12-Aug-2024
 copyright:          2019-2024
 title:              Rahmat M. Samik-Ibrahim
 # email:              my-e@ma.il
@@ -18,5 +18,5 @@ paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-sitemap 
 
